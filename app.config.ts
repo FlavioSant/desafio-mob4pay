@@ -21,6 +21,7 @@ export default {
       supportsTablet: true,
     },
     android: {
+      package: "app.com.mob4pay",
       adaptiveIcon: {
         foregroundImage: "./assets/adaptive-icon.png",
         backgroundColor: "#F4F4F5",
